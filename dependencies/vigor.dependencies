@@ -3,25 +3,25 @@
         "account":	"Chad0989",
         "repository":	"device_htc_vigor",
         "target_path":	"device/htc/vigor",
-        "revision":	"jellybean"
+        "revision":	"jellybean-ion"
     },
     {
         "account":	"Chad0989",
         "repository":	"android_device_htc_msm8660-common",
         "target_path":	"device/htc/msm8660-common",
-        "revision":	"jellybean"
+        "revision":	"jellybean-ion"
     },
     {
-        "account":	"Snuzzo",
+        "account":	"Chad0989",
         "repository":	"vigor_aosp_kernel",
         "target_path":	"kernel/htc/vigor-3.0",
-        "revision":	"jb"
+        "revision":	"jellybean-ion"
     },
     {
         "account":	"Chad0989",
         "repository":	"vendor_htc_vigor",
         "target_path":	"vendor/htc/vigor",
-        "revision":	"jellybean"
+        "revision":	"jellybean-ion"
     },
     {
         "account":	"shrike1978",
