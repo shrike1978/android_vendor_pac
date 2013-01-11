@@ -13,7 +13,7 @@
     },
     {
         "account":	"shrike1978",
-        "repository":	"minimal_vigor",
+        "repository":	"ermahgerd_kernel_vigor",
         "target_path":	"kernel/htc/vigor-3.0",
         "revision":	"jellybean-ion"
     },
