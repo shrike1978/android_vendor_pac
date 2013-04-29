@@ -1,5 +1,5 @@
 # Check for target product
-ifeq (pac_maguro,$(TARGET_PRODUCT))
+ifeq (pac_toro,$(TARGET_PRODUCT))
 
 # OVERLAY_TARGET adds overlay asset source
 OVERLAY_TARGET := pa_nav_xhdpi
@@ -22,8 +22,8 @@ PRODUCT_COPY_FILES += \
 include vendor/pac/config/pac_common.mk
 
 # Inherit CM device configuration
-$(call inherit-product, device/samsung/maguro/cm.mk)
+$(call inherit-product, device/samsung/toro/cm.mk)
 
-PRODUCT_NAME := pac_maguro
+PRODUCT_NAME := pac_toro
 
 endif

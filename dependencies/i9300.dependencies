@@ -1,14 +1,14 @@
 [
   {
-    "account":      "Team-Hydra",
-    "repository":   "android_vendor_samsung",
+    "account":      "TheMuppets",
+    "repository":   "proprietary_vendor_samsung",
     "target_path":  "vendor/samsung",
     "revision":     "cm-10.1"
     },
   {
-    "account":      "Team-Hydra",
-    "repository":   "android_device_samsung_d710",
-    "target_path":  "device/samsung/d710",
+    "account":      "CyanogenMod",
+    "repository":   "android_device_samsung_i9300",
+    "target_path":  "device/samsung/i9300",
     "revision":     "cm-10.1"
   },
    {
@@ -18,9 +18,9 @@
     "revision":     "cm-10.1"
   },
   {
-    "account":      "Team-Hydra",
-    "repository":   "android_device_samsung_galaxys2-common",
-    "target_path":  "device/samsung/galaxys2-common",
+    "account":      "CyanogenMod",
+    "repository":   "android_device_samsung_smdk4412-common",
+    "target_path":  "device/samsung/smdk4412-common",
     "revision":     "cm-10.1"
   },
   {
@@ -30,9 +30,9 @@
     "revision":     "cm-10.1"
   },
   {
-    "account":      "Team-Hydra",
-    "repository":   "android_kernel_samsung_smdk4210",
-    "target_path":  "kernel/samsung/smdk4210",
+    "account":      "CyanogenMod",
+    "repository":   "android_kernel_samsung_smdk4412",
+    "target_path":  "kernel/samsung/smdk4412",
     "revision":     "cm-10.1"
   }
 ]
