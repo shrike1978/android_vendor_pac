@@ -31,12 +31,17 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/pac/common
 # AOKP Packages
 PRODUCT_PACKAGES += \
     PerformanceControl \
-    ROMControl
+    ROMControl \
+    SwagPapers
 
 # AOKP Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/common
 
 ### PARANOID ###
+# PARANOID Packages
+PRODUCT_PACKAGES += \
+    ParanoidWallpapers
+
 # ParanoidAndroid Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/pa/overlay/common
 PRODUCT_PACKAGE_OVERLAYS += vendor/pa/overlay/$(TARGET_PRODUCT)
@@ -72,7 +77,7 @@ PA_VERSION := pa_$(BOARD)-$(VERSION)-$(shell date +%0d%^b%Y-%H%M%S)
 # PAC version
 PAC_VERSION_MAJOR = 22
 PAC_VERSION_MINOR = 1
-PAC_VERSION_MAINTENANCE = 0
+PAC_VERSION_MAINTENANCE = 1
 PAC_VERSION := $(PAC_VERSION_MAJOR).$(PAC_VERSION_MINOR).$(PAC_VERSION_MAINTENANCE)
 
 TARGET_CUSTOM_RELEASETOOL := vendor/pac/tools/squisher
@@ -84,7 +89,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.pa.family=$(PA_CONF_SOURCE) \
     ro.pa.version=$(VERSION) \
     ro.papref.revision=$(PA_PREF_REVISION) \
-    ro.aokp.version=$(BOARD)_jb-mr1_build-1 
+    ro.aokp.version=$(BOARD)_jb-mr1_milestone-1 
 
 # Setup OTA with goo.im
 PRODUCT_PROPERTY_OVERRIDES += \
