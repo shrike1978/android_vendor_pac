@@ -40,6 +40,7 @@ add_lunch_combo pac_manta-userdebug
 add_lunch_combo pac_crespo-userdebug
 add_lunch_combo pac_grouper-userdebug
 add_lunch_combo pac_tilapia-userdebug
+add_lunch_combo pac_toroplus-userdebug
 # HTC Rezound
 add_lunch_combo pac_vigor-userdebug
 # HTC Shooter
@@ -49,13 +50,15 @@ add_lunch_combo pac_shooteru-userdebug
 # HTC 2011
 add_lunch_combo pac_ace-userdebug
 add_lunch_combo pac_saga-userdebug
+add_lunch_combo pac_vivo-userdebug
 # HTC 2013
+add_lunch_combo pac_fireball-userdebug
 add_lunch_combo pac_jewel-userdebug
 add_lunch_combo pac_evita-userdebug
 add_lunch_combo pac_ville-userdebug
 add_lunch_combo pac_m7-userdebug
 add_lunch_combo pac_m7wls-userdebug
-#Samsung 2010
+# Samsung 2010
 add_lunch_combo pac_epicmtd-userdebug
 # Samsung 2013
 add_lunch_combo pac_d2spr-userdebug
@@ -94,3 +97,4 @@ add_lunch_combo pac_maserati-userdebug
 add_lunch_combo pac_umts_spyder-userdebug
 add_lunch_combo pac_solana-userdebug
 add_lunch_combo pac_vanquishgsm-userdebug
+add_lunch_combo pac_scorpionmini-userdebug

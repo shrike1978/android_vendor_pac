@@ -1,9 +1,9 @@
 [
     {
-        "account":      "atrus5",
-        "repository":   "device_htc_ville",
+        "account":      "CyanogenMod",
+        "repository":   "android_device_htc_ville",
         "target_path":  "device/htc/ville",
-        "revision":     "master"
+        "revision":     "cm-10.1"
     },
     {
         "account":      "CyanogenMod",
@@ -18,9 +18,15 @@
         "revision":     "cm-10.1"
     },
     {
+        "account":      "CyanogenMod",
+        "repository":   "android_device_htc_s4-common",
+        "target_path":  "device/htc/s4-common",
+        "revision":     "cm-10.1"
+    },
+    {
         "account":      "atrus5",
-        "repository":   "vendor_htc_ville",
-        "target_path":  "vendor/htc/ville",
-        "revision":     "master"
+        "repository":   "proprietary_vendor_htc",
+        "target_path":  "vendor/htc",
+        "revision":     "cm-10.1"
     }
 ]
