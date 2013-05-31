@@ -13,9 +13,9 @@
     },
     {
         "account":	"shrike1978",
-        "repository":	"ermahgerd_kernel_vigor",
+        "repository":	"DSB_Kernel",
         "target_path":	"kernel/htc/vigor-3.0",
-        "revision":	"jellybean"
+        "revision":	"aosp-jb"
     },
     {
         "account":	"Flyhalf205",
