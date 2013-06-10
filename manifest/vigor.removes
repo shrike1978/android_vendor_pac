@@ -8,7 +8,7 @@
         "path":     "hardware/qcom/media-legacy"
     },
     {
-        "name":     "PAC-man/android_build",
+        "name":     "android_build",
         "path":     "build"
     }
 ]
