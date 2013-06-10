@@ -22,5 +22,11 @@
         "repository":	"vendor_htc_vigor",
         "target_path":	"vendor/htc/vigor",
         "revision":	"cm-10.1"
+    },
+    {
+        "account":      "VigorCM9",
+        "repository":   "linaro",
+        "target_path":  "prebuilts/gcc/linux-x86/arm/linaro",
+        "revision":     "13.05"
     }
 ]
