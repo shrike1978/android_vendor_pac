@@ -24,9 +24,9 @@
         "revision":	"cm-10.1"
     },
     {
-        "account":      "VigorCM9",
-        "repository":   "linaro",
+        "account":      "VigorCM",
+        "repository":   "SaberMod_Armeabi_4.8",
         "target_path":  "prebuilts/gcc/linux-x86/arm/linaro",
-        "revision":     "13.05"
+        "revision":     "master"
     }
 ]
