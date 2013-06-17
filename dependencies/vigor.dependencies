@@ -12,8 +12,8 @@
         "revision":	"cm-10.1"
     },
     {
-        "account":	"shrike1978",
-        "repository":	"DSB_Kernel",
+        "account":	"Snuzzo",
+        "repository":	"funky_kernel",
         "target_path":	"kernel/htc/vigor-3.0",
         "revision":	"aosp-jb"
     },
