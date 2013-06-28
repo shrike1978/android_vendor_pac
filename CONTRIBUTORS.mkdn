@@ -34,7 +34,7 @@ BuildBot Maintainers:
 
 Device Maintainers:
 ----------
-* apascual89 (manta, odin, find5, jflteatt, jfltetmo)
+* apascual89 (manta, odin, find5, jflteatt, jfltetmo, m7att)
 * atrus5 (ville)
 * aways (galaxysmtd)
 * beerbong (n7000, i9300)
@@ -55,7 +55,7 @@ Device Maintainers:
 * jack_nuclear ()
 * jamieg71 (jewel, evita)
 * jaydub82 (hercules)
-* jeroenqui (yuga)
+* jeroenqui (yuga, tf201)
 * just1nsama (p930, su640)
 * KBizzle (sprint n7100)
 * klin1344 (ville)
@@ -73,10 +73,10 @@ Device Maintainers:
 * surdu_petru (spyder, umts_spyder, tf300t)
 * szl.kiev (urushi, mango)
 * tdm (P930, SU640, VS920)
-* vertigo2012 (Mako, Grouper, Tilapia, n7100, i9505)
+* vertigo2012 (Mako, Grouper, Tilapia, n7100, jfltexx)
 * Wechy77 (urushi)
 
-Total Devices: 96
+Total Devices: 97
 
 Best regards
      szl.kiev
