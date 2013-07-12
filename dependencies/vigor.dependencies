@@ -13,7 +13,7 @@
     },
     {
         "account":	"Snuzzo",
-        "repository":	"funky_kernel",
+        "repository":	"DSB_Kernel",
         "target_path":	"kernel/htc/vigor-3.0",
         "revision":	"aosp-jb"
     },
