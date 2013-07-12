@@ -34,20 +34,24 @@ BuildBot Maintainers:
 
 Device Maintainers:
 ----------
-* apascual89 (manta, odin, find5, jflteatt, jfltetmo, m7att)
+* abhisahara (n7100)
+* apascual89 (manta, find5, jflteatt, jfltetmo, m7att)
 * atrus5 (ville)
 * aways (galaxysmtd)
 * beerbong (n7000, i9300)
 * berni987654321 (p920, p970, p880, crespo)
-* Bkjolly (xt926, xt925, xt907, Droid Bionic, Droid 4, Droid 3, Galaxy Nexus Toro, Galaxy Nexus Toroplus )
+* Bkjolly (xt926, xt925, xt907, Droid Bionic, Droid 4, Droid 3, Galaxy Nexus Toro, Galaxy Nexus Toroplus, Grouper, Tilapia )
 * Blake (primo)
 * blindndumb (ace , saga, vivo)
-* BLOWNCO (t0lte, p5100, p5110)
+* BLOWNCO (jfltecri, jfltexx, t0lte, p5100, p5110)
 * bluefa1con (i9100, i9100g, mako)
 * cmartinbaughman (shooter, shooteru, shootervm)
+* crossfire77 (marvel)
 * Druboo666 (haida, hallon)
 * djpbx (mint, hayabusa, tsubasa)
 * garwedgess (anzu, zeus)
+* gchild320 (i605)
+* goldflame09 (otter, otter2, tate, jem)
 * Grarak (maguro, i9103)
 * gs2usr (skyrocket, jflteatt, jfltetmo)
 * IconRunner (i777)
@@ -63,20 +67,22 @@ Device Maintainers:
 * mithun46 ()
 * Nick0703 (captivatemtd, jfltecan, p3100, p3110)
 * OldDroid (p1000, gio, cooper, p500)
-* Papa Smurf151 (d2spr, d2att, d2tmo, d2vzw, jfltespr, jflteusc, jfltevzw)
+* Papa Smurf151 (d2att, d2cri, d2mtr, d2spr, d2tmo, d2usc, d2vzw, jfltespr, jflteusc, jfltevzw)
 * Paul-L (tass)
 * shrike1978 (vigor)
 * singhdd93 (coconut, mango, satsuma, smultron, iyokan, hallon)
 * skeevy420 (mb886)
-* Sniper (d710, m7wls, m7)
+* Sniper (d710, m7spr, m7, u8800pro)
+* MaDc0w (m7ul)
 * speedbot (beni)
 * surdu_petru (spyder, umts_spyder, tf300t)
 * szl.kiev (urushi, mango)
 * tdm (P930, SU640, VS920)
-* vertigo2012 (Mako, Grouper, Tilapia, n7100, jfltexx)
+* vertigo2012 (Mako)
 * Wechy77 (urushi)
+* zyonee (mako, grouper)
 
-Total Devices: 97
+Total Devices: 113
 
 Best regards
      szl.kiev

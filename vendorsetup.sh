@@ -4,6 +4,8 @@ add_lunch_combo pac_find5-userdebug
 ##Board: Fusion3
 add_lunch_combo pac_yuga-userdebug
 add_lunch_combo pac_odin-userdebug
+add_lunch_combo pac_pollux_windy-userdebug
+add_lunch_combo pac_pollux-userdebug
 # Xperia 2012
 ##Board: Blue
 add_lunch_combo pac_mint-userdebug
@@ -57,25 +59,31 @@ add_lunch_combo pac_shooteru-userdebug
 add_lunch_combo pac_ace-userdebug
 add_lunch_combo pac_saga-userdebug
 add_lunch_combo pac_vivo-userdebug
+add_lunch_combo pac_runnymede-userdebug
 # HTC 2013
 add_lunch_combo pac_fireball-userdebug
 add_lunch_combo pac_jewel-userdebug
 add_lunch_combo pac_evita-userdebug
 add_lunch_combo pac_ville-userdebug
 add_lunch_combo pac_m7-userdebug
+add_lunch_combo pac_m7ul-userdebug
 add_lunch_combo pac_m7att-userdebug
 add_lunch_combo pac_m7wls-userdebug
 # Samsung 2010
 add_lunch_combo pac_epicmtd-userdebug
 # Samsung 2013
+add_lunch_combo pac_d2att-userdebug
+add_lunch_combo pac_d2cri-userdebug
+add_lunch_combo pac_d2mtr-userdebug
 add_lunch_combo pac_d2spr-userdebug
 add_lunch_combo pac_d2tmo-userdebug
-add_lunch_combo pac_d2att-userdebug
+add_lunch_combo pac_d2usc-userdebug
 add_lunch_combo pac_d2vzw-userdebug
 add_lunch_combo pac_i605-userdebug
 add_lunch_combo pac_i9300-userdebug
 add_lunch_combo pac_jflteatt-userdebug
 add_lunch_combo pac_jfltecan-userdebug
+add_lunch_combo pac_jfltecri-userdebug
 add_lunch_combo pac_jfltespr-userdebug
 add_lunch_combo pac_jfltetmo-userdebug
 add_lunch_combo pac_jflteusc-userdebug
@@ -117,3 +125,12 @@ add_lunch_combo pac_scorpionmini-userdebug
 # Asus device
 add_lunch_combo pac_tf300t-userdebug
 add_lunch_combo pac_tf201-userdebug
+# Amazon
+add_lunch_combo pac_otter-userdebug
+add_lunch_combo pac_otter2-userdebug
+add_lunch_combo pac_tate-userdebug
+add_lunch_combo pac_jem-userdebug
+# Huawei
+add_lunch_combo pac_u8800pro-userdebug
+# HTC-legacy
+add_lunch_combo pac_marvel-userdebug

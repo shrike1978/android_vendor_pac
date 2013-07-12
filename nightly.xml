@@ -32,7 +32,12 @@
   <!-- Tier 2 devices -->
   <!-- Add new devices here -->
   <device name="anzu" priority="10" />
-  <device name="coconut" priority="10" /> 
+  <device name="coconut" priority="10" />
+  <device name="crespo" priority="10" />
+  <device name="d2cri" priority="10" />
+  <device name="d2mtr" priority="10" />
+  <device name="d2usc" priority="10" />
+  <device name="evita" priority="10" />
   <device name="find5" priority="10" />
   <device name="galaxysmtd" priority="10" />
   <device name="grouper" priority="10" />
@@ -42,8 +47,11 @@
   <device name="i9103" priority="10" /> 
   <device name="i9300" priority="10" /> 
   <device name="iyokan" priority="10" />
+  <device name="jem" priority="10" />
+  <device name="jewel" priority="10" />
   <device name="jflteatt" priority="10" />
   <device name="jfltecan" priority="10" />
+  <device name="jfltecri" priority="10" />
   <device name="jfltespr" priority="10" />
   <device name="jfltetmo" priority="10" />
   <device name="jflteusc" priority="10" />
@@ -53,24 +61,30 @@
   <device name="mango" priority="10" />
   <device name="manta" priority="10" />
   <device name="m7att" priority="10" />
+  <device name="m7ul" priority="10" />
   <device name="odin" priority="10" />
+  <device name="otter" priority="10" />
+  <device name="otter2" priority="10" />
   <device name="n7000" priority="10" />
   <device name="n7100" priority="10" />
+  <device name="p880" priority="10" />
+  <device name="p920" priority="10" />
   <device name="p930" priority="10" />
+  <device name="p970" priority="10" />
   <device name="p990" priority="10" />
   <device name="p3100" priority="10" />
   <device name="p3110" priority="10" />
+  <device name="pollux" priority="10" />
+  <device name="pollux_windy" priority="10" />
   <device name="satsuma" priority="10" />
   <device name="skyrocket" priority="10" />
   <device name="smultron" priority="10" />
   <device name="su640" priority="10" />
+  <device name="tate" priority="10" />
   <device name="tilapia" priority="10" />
   <device name="urushi" priority="10" />
   <device name="venturi_usa" priority="10" />
   <device name="vs920" priority="10" />
-  <device name="p920" priority="10" />
-  <device name="p970" priority="10" />
-  <device name="p880" priority="10" />
-  <device name="crespo" priority="10" />
+  <device name="yuga" priority="10" />
 
 </manifest>
